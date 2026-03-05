@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pydantic
+python-dotenv
+langchain
+openai
+textblob
+matplotlib
+plotly
